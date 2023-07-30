@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**VKokotova/vkokotova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Experienced IT professional with over 10 years of expertise in Information Technology Management and Operations. 
 Team lead, architect 1C.
 
